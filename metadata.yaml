@@ -1,0 +1,33 @@
+_repo: Questionable-Amusements-and-Worthy-Substitutes_2603
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Trever, Geo. H. (George Henry)
+    alias: Trever, George Henry
+    birthdate: 1857
+    gutenberg_agent_id: '41691'
+    url: http://www.gutenberg.org/2009/agents/41691
+creator:
+  author:
+    agent_name: Judy, J. M.
+    gutenberg_agent_id: '974'
+    url: http://www.gutenberg.org/2009/agents/974
+description: ''
+gutenberg_issued: '2001-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2603'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Amusements -- Religious aspects -- Methodist Church'
+- !lcc 'BV'
+- !lcsh 'Christian ethics'
+- GITenberg
+tableOfContents: 'Questionable amusements: Tobacco. Drunkenness. Gambling, card-playing.
+  Theater-going -- Worthy substitutes: Books and reading. Social recreation. Friendship.
+  Travel, a personal experience. Home and the home-maker.'
+title: Questionable Amusements and Worthy Substitutes
+url: http://www.gutenberg.org/ebooks/2603
