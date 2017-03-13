@@ -1,5 +1,5 @@
 _repo: Questionable-Amusements-and-Worthy-Substitutes_2603
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Trever, Geo. H. (George Henry)
@@ -7,12 +7,17 @@ contributor:
     birthdate: 1857
     gutenberg_agent_id: '41691'
     url: http://www.gutenberg.org/2009/agents/41691
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Judy, J. M.
     gutenberg_agent_id: '974'
     url: http://www.gutenberg.org/2009/agents/974
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2603#Questionable-Amusements-and-Worthy-Substitutes
 gutenberg_issued: '2001-04-01'
 gutenberg_type: Text
 identifiers:
